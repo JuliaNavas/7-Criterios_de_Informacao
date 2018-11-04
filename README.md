@@ -1,3 +1,4 @@
-# Critérios de Informação
-## AIC E BIC
-Comparação de modelos utilizando critério de informação Akaike (AIC) e Bayesian (BIC).
+# Econometria Avançada - Aula 7 - Critérios de Informação
+* Arquivos 
+* Resultados dos códigos;
+* Slides da au
